@@ -1,7 +1,7 @@
 # Start the project
 
 #### 1. Clone to repositorie
-```git clone```
+```git clone https://github.com/zagob/Challenge02-Completed.git```
 
 #### 2. Install dependencies
 ```yarn``` or ```npm install```
